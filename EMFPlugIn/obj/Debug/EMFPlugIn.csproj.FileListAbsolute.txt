@@ -1,0 +1,10 @@
+D:\Users\Administrator\Desktop\emfplugin-1.0.2\EMFPlugIn\bin\Debug\EMFPlugIn.dll.config
+D:\Users\Administrator\Desktop\emfplugin-1.0.2\EMFPlugIn\bin\Debug\EMFPlugIn.dll
+D:\Users\Administrator\Desktop\emfplugin-1.0.2\EMFPlugIn\bin\Debug\EMFPlugIn.pdb
+D:\Users\Administrator\Desktop\emfplugin-1.0.2\EMFPlugIn\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Users\Administrator\Desktop\emfplugin-1.0.2\EMFPlugIn\bin\Debug\System.Xml.Linq.dll
+D:\Users\Administrator\Desktop\emfplugin-1.0.2\EMFPlugIn\bin\Debug\System.Data.DataSetExtensions.xml
+D:\Users\Administrator\Desktop\emfplugin-1.0.2\EMFPlugIn\bin\Debug\System.Xml.Linq.xml
+D:\Users\Administrator\Desktop\emfplugin-1.0.2\EMFPlugIn\bin\Debug\ja\System.Data.DataSetExtensions.resources.dll
+D:\Users\Administrator\Desktop\emfplugin-1.0.2\EMFPlugIn\obj\Debug\EMFPlugIn.dll
+D:\Users\Administrator\Desktop\emfplugin-1.0.2\EMFPlugIn\obj\Debug\EMFPlugIn.pdb

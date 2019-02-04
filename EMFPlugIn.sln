@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMFPlugIn", "EMFPlugIn\EMFPlugIn.csproj", "{2CED15A6-214B-4B10-ACA9-F3089EFD348A}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EMFPluginSetup", "EMFPluginSetup\EMFPluginSetup.vdproj", "{5D91EAB0-A86D-47D5-AE01-2C72AF7D84ED}"

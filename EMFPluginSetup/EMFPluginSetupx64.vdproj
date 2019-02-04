@@ -122,7 +122,7 @@
                 {
                 "Name" = "8:.NET Framework"
                 "Message" = "8:[VSDNETMSG]"
-                "FrameworkVersion" = "8:3.5.30729 "
+                "FrameworkVersion" = "8:ANY"
                 "AllowLaterVersions" = "11:FALSE"
                 "InstallUrl" = "8:http://go.microsoft.com/fwlink/?LinkId=76617"
                 }
@@ -420,7 +420,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_19258A8AE5634290B8B692E67DB5BD72"
                     {
                     "Sequence" = "3:300"
-                    "DisplayName" = "8:Confirm Installation"
+                    "DisplayName" = "8:インストールの確認"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminConfirmDlg.wid"
@@ -442,7 +442,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_2006801E40E140A4884D0AEAA0F40DEC"
                     {
                     "Sequence" = "3:200"
-                    "DisplayName" = "8:Installation Folder"
+                    "DisplayName" = "8:インストール フォルダー"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFolderDlg.wid"
@@ -464,7 +464,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_59AD0DB714E343549BBB9162AB19E5F3"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:Welcome"
+                    "DisplayName" = "8:ようこそ"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminWelcomeDlg.wid"
@@ -521,7 +521,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_106DAB0081054B448E7D5B15C92B7E4B"
                     {
                     "Sequence" = "3:300"
-                    "DisplayName" = "8:Confirm Installation"
+                    "DisplayName" = "8:インストールの確認"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdConfirmDlg.wid"
@@ -543,7 +543,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_570E6FCCC31D47269B2CB5842B468CBC"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:Welcome"
+                    "DisplayName" = "8:ようこそ"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdWelcomeDlg.wid"
@@ -591,7 +591,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_EAE3C3056F3F4053BE210B8E5327A62B"
                     {
                     "Sequence" = "3:200"
-                    "DisplayName" = "8:Installation Folder"
+                    "DisplayName" = "8:インストール フォルダー"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdFolderDlg.wid"
@@ -635,7 +635,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_7859AF89A49F4495AFFDA75764C7CF4E"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:Progress"
+                    "DisplayName" = "8:進行状況"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminProgressDlg.wid"
@@ -679,7 +679,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_50E3B80F1A5E49D19EE6269CA0BDCD61"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:Progress"
+                    "DisplayName" = "8:進行状況"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdProgressDlg.wid"
@@ -723,7 +723,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_DD1836DC68B44500BE7E86EA6C9AAE12"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:Finished"
+                    "DisplayName" = "8:完了"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdFinishedDlg.wid"
@@ -773,7 +773,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_EC733ED67661454CA5829338A4154E85"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:Finished"
+                    "DisplayName" = "8:完了"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFinishedDlg.wid"
@@ -808,7 +808,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_DCA65FF15A9849AD9643667BCF3678A8"
             {
-            "SourcePath" = "8:..\\EMFPlugIn\\obj\\Release\\EMFPlugIn.dll"
+            "SourcePath" = "8:..\\EMFPlugIn\\obj\\Debug\\EMFPlugIn.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_294A08C69B114593AE5E776E0B25A44B"
